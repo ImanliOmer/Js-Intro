@@ -23,3 +23,13 @@ function total(arr){
  }
     console.log(a);
 }
+
+//task4
+
+function sahe(a,b)
+ {
+
+   return a*b;
+
+}
+console.log(sahe(6,70));
